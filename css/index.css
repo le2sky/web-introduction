@@ -1,0 +1,35 @@
+img {
+    width: 100px;
+    height: 160px;
+    margin: 10px;
+}
+
+table {
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 800px;
+}
+
+th {
+    border-bottom: 1px solid black;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.movie {
+    border-bottom: 1px solid black;
+    padding: 30px;
+}
+
+.introduction {
+    border-bottom: 1px solid black;
+    padding: 30px;
+}
+
+.guestbook {
+    padding: 30px;
+}
